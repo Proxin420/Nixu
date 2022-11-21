@@ -2,9 +2,6 @@
 
 Nixu is a small shell i wrote in rust
 
-Features:
-configurable
-history
-builtin cd command
+Features: configurable, builtin history, builtin cd command
 
 
